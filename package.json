@@ -1,0 +1,13 @@
+{
+  "name": "mrybo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrYbo/mrybo.git",
+  "author": "bo.yang <bo.yang@oidbo.com>",
+  "license": "MIT",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
