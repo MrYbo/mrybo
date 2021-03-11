@@ -8,5 +8,4 @@ I am a low-level programmer struggling to fill his stomach👤.
 
 I like playing, like animation, like games, like playing basketball🤷‍♂️.
 
-![header](images/illustration.webp)
 
